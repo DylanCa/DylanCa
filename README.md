@@ -7,7 +7,13 @@
 <br />
 <br />
 <br />
-![](https://github-readme-stats-dylancas-projects.vercel.app/api?username=DylanCa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br />
+<a href="https://github.com/DylanCa">
+  <img height=200 align="center" src="https://github-readme-stats-dylancas-projects.vercel.app/api?username=DylanCa&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</a>
+<a href="[https://github.com/DylanCa](https://wakatime.com/@DylanCa)">
+  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@DylanCa&layout=compact" />
+</a>
+<br />
 _Does not indicate my skills nor does it include Company-related data_
 <br />
 <br />
@@ -19,4 +25,3 @@ _Does not indicate my skills nor does it include Company-related data_
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
