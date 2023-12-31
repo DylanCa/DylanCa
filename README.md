@@ -1,8 +1,7 @@
 # 💫 Hey, I'm Dylan!
-🔭 Backend Software Engineer with 4+ years of Experience<br>
-🧳 Working at [Fieldwire](https://www.fieldwire.com/) as a Software Engineer<br>
-👯 Would love to collaborate on video game-related backend projects<br>
-🌱 Currently learning about Rust and Websockets!<br />
+🔭 Backend Software Engineer with 4+ years of Experience currently working at [Fieldwire](https://www.fieldwire.com/).<br>
+👯 Would love to collaborate on video-game related projects!<br>
+🌱 Learning about Rust and Websockets!<br />
 💭 Want to have a chat ? Feel free to contact me on [LinkedIn](https://linkedin.com/in/dylancattelan) !
 <br />
 <br />
