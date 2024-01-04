@@ -22,11 +22,8 @@
 <br />
 
 ### 💻 Recent Work
+Some of the projects I am actively working on.
 <br />
 
-<a align="center" href="https://github.com/DylanCa/apple-music">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DylanCa&repo=apple-music">
-</a>
-<a align="center" href="https://github.com/DylanCa/rust-discord-activity">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DylanCa&repo=rust-discord-activity">
-</a>
+[![Apple Music](https://github-readme-stats.vercel.app/api/pin/?username=DylanCa&repo=apple-music)](https://github.com/DylanCa/apple-music)
+[![Rust Discord Activity](https://github-readme-stats.vercel.app/api/pin/?username=DylanCa&repo=rust-discord-activity)](https://github.com/DylanCa/rust-discord-activity)
