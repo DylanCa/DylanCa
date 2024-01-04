@@ -11,7 +11,7 @@
   <img height=140 align="center" src="https://github-readme-stats-dylancas-projects.vercel.app/api?username=DylanCa&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://wakatime.com/DylanCa">
-  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DylanCa&layout=compact&langs_count=4" />
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DylanCa&layout=compact&display_format=percent&langs_count=4" />
 </a>
 <br />
 <sup><sub>Does not include any Company-related data</sub></sup>
