@@ -15,14 +15,3 @@
 </a>
 <br />
 <sup><sub>Does not include any Company-related data</sub></sup>
-
-
-<br />
-
-### 💻 Recent Work
-Some of the projects I am actively working on.
-<br />
-
-[![Apple Music](https://github-readme-stats.vercel.app/api/pin/?username=DylanCa&repo=apple-music)](https://github.com/DylanCa/apple-music)
-[![Rust Discord Activity](https://github-readme-stats.vercel.app/api/pin/?username=DylanCa&repo=rust-discord-activity)](https://github.com/DylanCa/rust-discord-activity)
-[![Apple Music Discord Activity](https://github-readme-stats.vercel.app/api/pin/?username=DylanCa&repo=apple-music-discord-activity)](https://github.com/DylanCa/apple-music-discord-activity)
