@@ -1,11 +1,13 @@
 <p align="center">
   <h1 align="center"> 💫 <a href="https://linkedin.com/in/dylancattelan">Hey, I'm Dylan.</a></h1>
 </p>
-🔭 Software Engineer with 5+ years of Experience, currently remotely working at <a href="https://www.fieldwire.com/">Fieldwire</a>.
+🔭 Software Engineer with 6+ years of experience - Currently remotely working at SF-based company <a href="https://www.linkedin.com/company/fieldwirelabs/">Fieldwire by Hilti</a>.
 <br>
-📈 Focused on building large, fast and scalable APIs used by thousands of users concurrently.
+📈 Focused on building large, fast and scalable services used by thousands of users concurrently, obsessed by performances.
 <br>
-🧠 Experienced with Ruby, Python and Rust, interested in everything.
+🧠 Experienced with Ruby & Python, learning Rust and Golang, interested in everything - Languages are tools in a toolbox, ready to use the right tool for the right job.
+<br />
+🌎 Moving from France to Montreal, QC, Canada early 2025, soon-to-be on the job market.
 <br />
 <br />
 
