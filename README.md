@@ -5,9 +5,9 @@
 <br>
 📈 Focused on building large, fast and scalable services used by thousands of users concurrently, obsessed by performances.
 <br>
-🧠 Experienced with Ruby & Python, learning Rust and Golang, interested in everything - 
+🧠 Professional Experience with Ruby & Python, side-questing Rust during free-time, interested in everything.
 <br />
-🌎 Moving from France to Montreal, QC, Canada early 2025, soon-to-be on the job market.
+🌎 Moving from France to Montreal, QC, Canada May 2025 - Looking for a position in Canada!
 <br />
 <br />
 
