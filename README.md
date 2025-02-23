@@ -7,7 +7,7 @@
 <br>
 🧠 Professional Experience with Ruby & Python, side-questing Rust during free-time, interested in everything.
 <br />
-🌎 Moving from France to Montreal, QC, Canada May 2025 - Looking for a position in Canada!
+🌎 Moving from France to Montreal, QC, Canada mid-2025 - Looking for a position in Canada, remote or not!
 <br />
 <br />
 
