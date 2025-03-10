@@ -11,7 +11,7 @@
 <br />
 <br />
 
-![WakaTime DylanCa Stats](https://github-readme-stats-fogy43lxv-dylancas-projects.vercel.app/api/wakatime?username=DylanCa&range=all_time&layout=compact&display_format=percent&langs_count=6&hide=vue.js,other)
+![WakaTime DylanCa Stats](https://github-readme-stats-47kc7t1as-dylancas-projects.vercel.app/api/wakatime?username=DylanCa&range=all_time&layout=compact&display_format=percent&langs_count=6&hide=vue.js,other)
 
 <br />
 _Languages are tools in a toolbox, ready to use the right tool for the right job._
