@@ -10,8 +10,8 @@
 🌎 Moving from France to Montreal, QC, Canada in May 2025 - Looking for a position in Canada, remote or not! 
 <br />
 <br />
-
-![WakaTime DylanCa Stats](https://github-readme-stats-47kc7t1as-dylancas-projects.vercel.app/api/wakatime?username=DylanCa&range=all_time&layout=compact&display_format=percent&langs_count=6&hide=vue.js,other)
-
 <br />
+
+![WakaTime DylanCa Stats](https://github-readme-stats-47kc7t1as-dylancas-projects.vercel.app/api/wakatime?username=DylanCa&range=all_time&layout=compact&display_format=percent&langs_count=6&hide=vue.js,yaml,markdown,html,json,other&custom_title=Most%20used%20languages)
+
 _Languages are tools in a toolbox, ready to use the right tool for the right job._
