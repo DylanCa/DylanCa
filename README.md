@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"> 💫 <a href="https://linkedin.com/in/dylancattelan">Hey, I'm Dylan.</a></h1>
+  <h1 align="center">Hey, I'm Dylan.</h1>
 </p>
 🔭 Software Engineer with 6+ years of experience all around the world: France, San Francisco & London. Currently located in Montréal.
 <br>
@@ -9,7 +9,15 @@
 <br />
 🌎 More info about me on <a href="https://dylanca.dev">DylanCa.dev</a> or on <a href="https://linkedin.com/in/dylancattelan">my profile LinkedIn</a>
 <br />
+<br />
+<br />
 
+
+![WakaTime DylanCa Stats](https://github-readme-stats-47kc7t1as-dylancas-projects.vercel.app/api/wakatime?username=DylanCa&range=all_time&layout=compact&display_format=percent&langs_count=6&hide=vue.js,yaml,markdown,html,json,other&custom_title=Most%20used%20languages)
+
+_Languages are tools in a toolbox, ready to use the right tool for the right job._
+
+<br />
 
 <h2>Opensource Contributions</h2>
 
@@ -70,11 +78,3 @@
 </table>
 
 
-
-![WakaTime DylanCa Stats](https://github-readme-stats-47kc7t1as-dylancas-projects.vercel.app/api/wakatime?username=DylanCa&range=all_time&layout=compact&display_format=percent&langs_count=6&hide=vue.js,yaml,markdown,html,json,other&custom_title=Most%20used%20languages)
-
-_Languages are tools in a toolbox, ready to use the right tool for the right job._
-
-<br />
-
-<h2
