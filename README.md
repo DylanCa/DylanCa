@@ -7,7 +7,7 @@
 <br>
 🧠 Professional Experience with Ruby & Python, side-questing Rust and Golang during free-time, interested in everything.
 <br />
-🌎 More info about me on <a href="https://dylanca.dev">DylanCa.dev</a> or on <a href="https://linkedin.com/in/dylancattelan">my profile LinkedIn</a>
+🌎 More info about me on <a href="https://dylanca.dev">DylanCa.dev</a> or on <a href="https://linkedin.com/in/dylancattelan">my LinkedIn profile</a>!
 <br />
 <br />
 <br />
