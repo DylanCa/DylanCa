@@ -1,17 +1,19 @@
 <p align="center">
   <h1 align="center">Hey, I'm Dylan.</h1>
 </p>
-🔭 Software Engineer with 6+ years of experience all around the world: France, San Francisco & London. Currently located in Montréal.
+Software Engineer with 5+ years of experience all around the world: France, San Francisco & London. Currently located in Montréal.
 <br>
-📈 Focused on building large, fast and scalable services used by thousands of users concurrently, obsessed by performances.
 <br>
-🧠 Professional Experience with Ruby & Python, side-questing Rust and Golang during free-time, interested in everything.
+Focused on building large, fast and scalable services used by thousands of users concurrently, obsessed by performances. In love with building complex backend services, APIs and systems ready to handle tens of thousands of concurrent accesses.
+<br>
+<br>
+Professional Experience with Ruby & Python, side-questing Rust and Golang during free-time, built multiple Open-Source projects and contributions.
+<br>
 <br />
-🌎 More info about me on <a href="https://dylanca.dev">DylanCa.dev</a> or on <a href="https://linkedin.com/in/dylancattelan">my LinkedIn profile</a>!
+More info about me on <a href="https://dylanca.dev">DylanCa.dev</a> or on <a href="https://linkedin.com/in/dylancattelan">my LinkedIn profile</a>!
 <br />
 <br />
 <br />
-
 
 ![WakaTime DylanCa Stats](https://github-readme-stats-47kc7t1as-dylancas-projects.vercel.app/api/wakatime?username=DylanCa&range=all_time&layout=compact&display_format=percent&langs_count=6&hide=vue.js,yaml,markdown,html,json,other&custom_title=Most%20used%20languages)
 
