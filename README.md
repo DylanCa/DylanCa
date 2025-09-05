@@ -13,13 +13,21 @@ Professional Experience with Ruby & Python, side-questing Rust and Golang during
 More info about me on <a href="https://dylanca.dev">DylanCa.dev</a> or on <a href="https://linkedin.com/in/dylancattelan">my LinkedIn profile</a>!
 <br />
 <br />
-<br />
 
-![WakaTime DylanCa Stats](https://github-readme-stats-47kc7t1as-dylancas-projects.vercel.app/api/wakatime?username=DylanCa&range=all_time&layout=compact&display_format=percent&langs_count=6&hide=vue.js,yaml,markdown,html,json,other&custom_title=Most%20used%20languages)
+<h2>Deployed and Available Projects</h2>
 
-_Languages are tools in a toolbox, ready to use the right tool for the right job._
-
-<br />
+<table>
+<th>Project Name & URL</th>
+<th>Description</th>
+  <tr>
+    <td><a href=https://learn-dsa.dev><img src=https://i.postimg.cc/NfxMMZPb/Arc-2025-09-05-01-01-44.png></img></a></td>
+    <td>Free website to learn and improve with data structure algorithm, track your progress and study with flashcards.</td>
+  </tr>
+  <tr>
+    <td><a href=https://dylanca.dev><img src=https://i.postimg.cc/wxLQjc8F/Arc-2025-09-05-01-15-04.png></img></a></td>
+    <td>Personal Portfolio Website with a brief summary of my life, a timeline of my experiences, a list of projects I've made and links to my socials / résumé.</td>
+  </tr>
+</table>
 
 <h2>Opensource Contributions</h2>
 
