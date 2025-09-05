@@ -11,7 +11,7 @@ Professional Experience with Ruby & Python, side-questing Rust and Golang during
 <br />
 <br />
 
-<h2>Deployed and Available Projects</h2>
+<h2>Deployed Projects</h2>
 
 <table>
 <th>Project Name & URL</th>
