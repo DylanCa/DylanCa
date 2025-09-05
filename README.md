@@ -8,9 +8,6 @@ Focused on building large, fast and scalable services used by thousands of users
 <br>
 <br>
 Professional Experience with Ruby & Python, side-questing Rust and Golang during free-time, built multiple Open-Source projects and contributions.
-<br>
-<br />
-More info about me on <a href="https://dylanca.dev">DylanCa.dev</a> or on <a href="https://linkedin.com/in/dylancattelan">my LinkedIn profile</a>!
 <br />
 <br />
 
@@ -28,6 +25,9 @@ More info about me on <a href="https://dylanca.dev">DylanCa.dev</a> or on <a hre
     <td>Personal Portfolio Website with a brief summary of my life, a timeline of my experiences, a list of projects I've made and links to my socials / résumé.</td>
   </tr>
 </table>
+
+<br />
+
 
 <h2>Opensource Contributions</h2>
 
@@ -57,6 +57,9 @@ More info about me on <a href="https://dylanca.dev">DylanCa.dev</a> or on <a hre
   </td> 
 </tr>
 </table>
+
+<br />
+
 
 <h2>Notable Projects</h2>
 
