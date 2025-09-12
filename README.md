@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Hey, I'm Dylan.</h1>
 </p>
-Software Engineer with 5+ years of experience all around the world: France, San Francisco & London. Currently located in Montréal.
+Software Engineer with 5+ years of experience all around the world: San Francisco, France, Canada & UK. Currently located in Montréal.
 <br>
 <br>
 Focused on building large, fast and scalable services used by thousands of users concurrently, obsessed by performances. In love with building complex backend services, APIs and systems ready to handle tens of thousands of concurrent accesses.
