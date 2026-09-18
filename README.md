@@ -1,15 +1,8 @@
 <p align="center">
   <h1 align="center">Hey, I'm Dylan.</h1>
 </p>
-Senior Software Engineer @ Dialogue with 5+ years of experience all around the world: San Francisco, France, Canada & UK. Currently located in Montréal.
+Engineering Manager @ Dialogue, leading a team of 8. 6+ years of experience all around the world: San Francisco, France, Canada & UK. Currently located in Montréal.
 <br>
-<br>
-Focused on building large, fast and scalable services used by thousands of users concurrently, obsessed by performances. In love with building complex backend services, APIs and systems ready to handle tens of thousands of concurrent accesses.
-<br>
-<br>
-Professional Experience with Ruby & Python, side-questing Rust and Golang during free-time, built multiple Open-Source projects and contributions.
-<br />
-<br />
 
 <h2>Deployed Projects</h2>
 
