@@ -11,7 +11,7 @@ Engineering Manager @ Dialogue, leading a team of 8. 6+ years of experience all 
 <th>Description</th>
   <tr>
     <td><a href=https://learn-dsa.dev><img src=https://i.postimg.cc/NfxMMZPb/Arc-2025-09-05-01-01-44.png></img></a></td>
-    <td>Free website to learn and improve with data structure algorithm, track your progress and study with flashcards.</td>
+    <td>(Discontinued) Free website to learn and improve with data structure algorithm, track your progress and study with flashcards.</td>
   </tr>
   <tr>
     <td><a href=https://dylanca.dev><img src=https://i.postimg.cc/wxLQjc8F/Arc-2025-09-05-01-15-04.png></img></a></td>
